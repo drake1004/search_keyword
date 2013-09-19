@@ -5,7 +5,6 @@
  */
 
 use library\curl;
-$root_path = dirname(__DIR__);
 
 require_once 'library\curl.php';
 
